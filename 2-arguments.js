@@ -8,6 +8,3 @@ else if (args.length === 1) {
 else if (args.length === 2) {
     console.log('Arguments found');
 }
-else {
-    console.log(`Argument provided: ${args.join(', ')}`);
-}
