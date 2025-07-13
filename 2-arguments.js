@@ -9,5 +9,5 @@ else if (args.length === 2) {
     console.log('Arguments found');
 }
 else{
-console.log(`Argument found ${args}`);
+console.log('Argument found');
 }
